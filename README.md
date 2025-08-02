@@ -1,3 +1,6 @@
+### DevOps 2.0
+
+
 ### Usecases of Agentic AI in DevOps
 * Agentic AI has the potential to revolutionize DevOps by automating complex workflows, enhancing decision-making, and significantly reducing manual intervention across the software development lifecycle. Here are some key use cases:
 #### Smarter Code Integration and Review:
